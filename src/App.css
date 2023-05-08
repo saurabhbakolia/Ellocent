@@ -83,3 +83,13 @@ span{
     color: #E06469;
     font-size:1.4rem;
 }
+
+
+
+/* Media Queries */
+
+@media screen and (max-width: 768px) {
+    form{
+        width: 100%;
+    }
+}
